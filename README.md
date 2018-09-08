@@ -1,1 +1,2 @@
-# fictional-chainsaw
+# Conway's Game of Life
+
